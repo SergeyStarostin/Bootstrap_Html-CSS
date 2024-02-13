@@ -1,0 +1,8 @@
+.nav-background {
+    background-color: rgb(209, 200, 200);
+}
+
+.center {
+    padding-left: calc(50% - 500px);
+    padding-right: calc(50% - 500px);
+}
